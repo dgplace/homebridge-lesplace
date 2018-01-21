@@ -2,13 +2,22 @@
   "name": "homebridge-lesplace",
   "version": "0.0.1",
   "description": "Homecontrol A LesPlace plugin for homebridge: https://github.com/nfarina/homebridge",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "license": "ISC",
   "keywords": [
+    "homebridge",
     "homebridge-plugin"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/dgplace/homebridge-lesplace.git"
+    "url": "git+https://github.com/dgplace/homebridge-lesplace.git"
   },
   "bugs": {
     "url": "http://github.com/dgplace/homebridge-lesplace/issues"
