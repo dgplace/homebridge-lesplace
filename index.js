@@ -15,7 +15,7 @@ module.exports = function(homebridge) {
   // For platform plugin to be considered as dynamic platform plugin,
   // registerPlatform(pluginName, platformName, constructor, dynamic), dynamic must be true
   //homebridge.registerPlatform("homebridge-homeComtrol", "homeControl-LesPlace", homeControlLesPlace, true);
-  homebridge.registerAccessory("homebridge-homeComtrol-plugin", "GardenLight", homeControlLesPlace);
+  homebridge.registerAccessory("homebridge-lesplace", "GardenLight", homeControlLesPlace);
   
 }
 

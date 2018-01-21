@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-homeComtrol-plugin",
+  "name": "homebridge-lesplace",
   "version": "0.0.1",
-  "description": "Homecontrol LesPlace plugin for homebridge: https://github.com/nfarina/homebridge",
+  "description": "Homecontrol A LesPlace plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
