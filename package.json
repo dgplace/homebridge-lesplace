@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-homeComtrol-plugin",
+  "version": "0.0.1",
+  "description": "Homecontrol LesPlace plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dgplace/homebridge-lesplace.git"
+  },
+  "bugs": {
+    "url": "http://github.com/dgplace/homebridge-lesplace/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
